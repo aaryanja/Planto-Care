@@ -1,0 +1,2 @@
+# Planto-Care
+I am Aaryan Jain , class 7th , my idea is  to build robot (plant care taker) that will do take care of plant and plough or plant  plants  where plant get needful material . There is one mobile application too so that person can schedule time for robot when robot will give watering to  plant . It is very beneficial for those who did job or those having busy schedule so that  they can  grow or  take care of their plants . It is also good for environment .  In future robot will bring nature and plant plants on earth . 
